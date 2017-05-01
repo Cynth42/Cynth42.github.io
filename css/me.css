@@ -1,0 +1,51 @@
+
+.img-circle{
+  float: right;
+
+}
+
+
+
+
+
+.button{
+  margin-top: 100px;
+}
+
+ #about{
+  line-height: 230% !important;
+  color:white;
+  text-align: right;
+  margin-right: 20px;
+  font-size: 20px;
+}
+
+
+
+
+#webdev{
+  font-size: 20pt;
+
+ }
+
+
+
+.boxes{
+    color: gray !important;
+  }
+
+
+
+#linked, #email {
+  margin-top: 40px;
+}
+
+
+
+  footer{
+    background-color: white;
+    text-align: center;
+    margin-top: 900px;
+    
+}
+
